@@ -4,7 +4,7 @@
 
 Sample of clean_architecture_bloc
 
-## Getting Started
+### Getting Started
 
 # Simple and easy to understand the basic structure and flow of
 
