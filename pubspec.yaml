@@ -1,0 +1,34 @@
+name: clean_architecture_bloc
+description: "Sample of clean architecture and bloc"
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_bloc: ^9.1.1
+  dio: ^5.8.0+1
+  equatable: ^2.0.7
+  get_it: ^8.0.3
+  injectable: ^2.5.0
+  fluttertoast: ^8.2.12
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  build_runner: ^2.5.4
+  injectable_generator: ^2.4.1
+
+flutter:
+
+  uses-material-design: true

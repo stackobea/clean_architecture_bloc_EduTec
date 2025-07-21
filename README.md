@@ -1,6 +1,10 @@
-# clean_architecture_bloc_EduTec
-Sample of Clean architecture BLOC For learning purpose
+# clean_architecture_bloc
+# This code base written by Stackobea Technologies
+# For eduction purpose
 
+Sample of clean_architecture_bloc
+
+## Getting Started
 
 # Simple and easy to understand the basic structure and flow of
 
@@ -15,3 +19,5 @@ Sample of Clean architecture BLOC For learning purpose
 # Make sure to run the build runner first.
 
 # The default username and password is admin/admin
+
+
